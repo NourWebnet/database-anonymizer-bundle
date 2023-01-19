@@ -5,7 +5,7 @@ namespace WebnetFr\DatabaseAnonymizerBundle\Command;
 use Doctrine\Common\Annotations\Reader;
 use Doctrine\DBAL\DBALException;
 use Doctrine\ORM\Mapping\ClassMetadata;
-use Symfony\Bridge\Doctrine\RegistryInterface;
+use  Doctrine\Bundle\DoctrineBundle\Registry as  RegistryInterface;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
