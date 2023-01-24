@@ -1,5 +1,5 @@
 {
-    "name": "nbenarfa/database-anonymizer-bundle",
+    "name": "nbenarfa-wbnt/database-anonymizer-bundle",
     "type": "symfony-bundle",
     "description": "Database anonymizer bundle.",
     "keywords": [
