@@ -13,7 +13,6 @@
         "php": "^7.2.5|^8.0.2",
         "symfony/console": "^5.4|^6.0",
         "symfony/framework-bundle": "^5.4|^6.0",
-        "doctrine/event-manager": "^1.2|^2",
         "symfony/doctrine-bridge": "^5.4|^6.0",
         "webnet-fr/database-anonymizer": "^0.0.6"
     },
